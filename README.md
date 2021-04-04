@@ -1,0 +1,2 @@
+# Access-Form-Creator
+The idea behind this project is to be able to hand somebody with no understanding of access or vba an access database that contains only what is needed to allow them to create forms, reports, linked tables based on the information they fill out on the form provided to them. when project is finished they should then be able to select whether to hide or remove everything used to create the backend they needed.
